@@ -1,4 +1,4 @@
-FROM hub.opensciencegrid.org/osg-htc/software-base:24-el9-release
+FROM hub.opensciencegrid.org/osg-htc/software-base:26-el9-release
 ARG LOCALE=C.UTF-8
 ENV LANG=$LOCALE
 ENV LC_ALL=$LOCALE
